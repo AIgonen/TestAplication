@@ -1,0 +1,7 @@
+C:\Users\aigon\source\repos\TestApplication\TestApplication\bin\Debug\TestApplication.exe.config
+C:\Users\aigon\source\repos\TestApplication\TestApplication\bin\Debug\TestApplication.exe
+C:\Users\aigon\source\repos\TestApplication\TestApplication\bin\Debug\TestApplication.pdb
+C:\Users\aigon\source\repos\TestApplication\TestApplication\obj\Debug\TestApplication.csproj.AssemblyReference.cache
+C:\Users\aigon\source\repos\TestApplication\TestApplication\obj\Debug\TestApplication.csproj.CoreCompileInputs.cache
+C:\Users\aigon\source\repos\TestApplication\TestApplication\obj\Debug\TestApplication.exe
+C:\Users\aigon\source\repos\TestApplication\TestApplication\obj\Debug\TestApplication.pdb
