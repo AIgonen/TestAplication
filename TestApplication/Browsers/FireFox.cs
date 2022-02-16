@@ -19,7 +19,7 @@ namespace TestApplication.Browsers
             Console.WriteLine("Find UI element in FireFox");
         }
 
-        public void SendKeys()
+        public void SendKeys(string keys)
         {
             Console.WriteLine("Send the text");
         }

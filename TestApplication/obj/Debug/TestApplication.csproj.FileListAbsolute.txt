@@ -5,3 +5,10 @@ C:\Users\aigon\source\repos\TestApplication\TestApplication\obj\Debug\TestApplic
 C:\Users\aigon\source\repos\TestApplication\TestApplication\obj\Debug\TestApplication.csproj.CoreCompileInputs.cache
 C:\Users\aigon\source\repos\TestApplication\TestApplication\obj\Debug\TestApplication.exe
 C:\Users\aigon\source\repos\TestApplication\TestApplication\obj\Debug\TestApplication.pdb
+C:\Users\Sulearvuti 02 lenovo\Documents\GitHub\TestAplication\TestApplication\bin\Debug\TestApplication.exe.config
+C:\Users\Sulearvuti 02 lenovo\Documents\GitHub\TestAplication\TestApplication\bin\Debug\TestApplication.exe
+C:\Users\Sulearvuti 02 lenovo\Documents\GitHub\TestAplication\TestApplication\bin\Debug\TestApplication.pdb
+C:\Users\Sulearvuti 02 lenovo\Documents\GitHub\TestAplication\TestApplication\obj\Debug\TestApplication.csprojAssemblyReference.cache
+C:\Users\Sulearvuti 02 lenovo\Documents\GitHub\TestAplication\TestApplication\obj\Debug\TestApplication.csproj.CoreCompileInputs.cache
+C:\Users\Sulearvuti 02 lenovo\Documents\GitHub\TestAplication\TestApplication\obj\Debug\TestApplication.exe
+C:\Users\Sulearvuti 02 lenovo\Documents\GitHub\TestAplication\TestApplication\obj\Debug\TestApplication.pdb

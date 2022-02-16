@@ -19,7 +19,7 @@ namespace TestApplication.Browsers
             throw new NotImplementedException("Find UI element in Edge");
         }
 
-        public void SendKeys()
+        public void SendKeys(string keys)
         {
             throw new NotImplementedException("Send the text");
         }

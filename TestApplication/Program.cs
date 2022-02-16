@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using TestApplication.Browsers;
 using TestApplication.Selenium;
+using TestApplication.ExtensionMethods;
 
 namespace TestApplication
 {
@@ -18,7 +19,7 @@ namespace TestApplication
     }
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             //NonGenericCollection();
             //GenericCollection();
